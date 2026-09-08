@@ -13,7 +13,7 @@ import Pricing from './pages/Pricing'
 
 
 
-export const Server_URL = "http://localhost:8000"
+export const Server_URL = "https://prepi-2.onrender.com"
 
 function App() {
 
