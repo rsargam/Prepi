@@ -13,7 +13,7 @@ import paymentRouter from "./routes/payment.route.js";
 
 const app=express();
 app.use(cors({
-origin:"http://localhost:5174",
+origin:"https://prepi-2-client.onrender.com",
 credentials:true
 }))
 
